@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "318785557538",
+    "firebase_url": "https://mobile-3dfcd-default-rtdb.firebaseio.com",
+    "project_id": "mobile-3dfcd",
+    "storage_bucket": "mobile-3dfcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318785557538:android:4b797594f265f34f30267b",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHTxO-hfYCEiIGQIPi1E3wudyj98AP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318785557538:android:54bdc2bb888bbcce30267b",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHTxO-hfYCEiIGQIPi1E3wudyj98AP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318785557538:android:92c95bc953a4306530267b",
+        "android_client_info": {
+          "package_name": "essect.exemple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxHTxO-hfYCEiIGQIPi1E3wudyj98AP6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
